@@ -1,0 +1,4 @@
+background: 43506C   [67,80,108]
+redbutton: EF4B4C       [239,75,76]
+button: 3D679B            [61,103,155]
+back: E9E9EB                [233,233,235]
